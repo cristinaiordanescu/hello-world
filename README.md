@@ -1,2 +1,2 @@
 # hello-world
-Write a description
+I am retarded
